@@ -2,14 +2,14 @@ var bsa = require('../lib/BSA/bsa.js'); // Obtengo las funciones discover y tran
 
 var options = {
     endpoint: "developers",
-    Authorization: 'TODOPAGO 8A891C0676A25FBF052D1C2FFBC82DEE'
+    Authorization: 'TODOPAGO 5c0e90524632480cb80caa4482b770f8'
 };
 
 
 
-exampleGetCredentials();
-exampleDiscover();
-exampleTransaction();
+//exampleGetCredentials();
+//exampleDiscover();
+//exampleTransaction();
 examplePushNotification();
 
 
